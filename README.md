@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+-# Hoshimachi Suisei's Strongest Hoshiyomi since 2021
 <!--
 **infinytyloop/infinytyloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
